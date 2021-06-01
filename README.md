@@ -14,10 +14,6 @@ As a small business owner I want to be able to write and save notes so that I ca
 
 * [License](#license)
 
-* [Contributing](#contributing)
-
-* [Tests](#tests)
-
 * [Questions](#questions)
 
 # Installation
@@ -30,14 +26,6 @@ The following necessary dependencies must be installed to run the application pr
 
 # License
 This project is license under the undefined license.
-
-# Contributing
-
-​Contributors: N/A
-
-# Tests
-
-To run tests, you need to run the following command: N/A
 
 # Questions
 
